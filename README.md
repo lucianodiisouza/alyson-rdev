@@ -24,7 +24,6 @@
     <img align="center" alt="Aly-Dotnet" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     
     
-  <img align="right" alt="Aly-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
