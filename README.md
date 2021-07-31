@@ -4,7 +4,7 @@
 - 🔭 Em busca de uma oportunidade para adquirir experiência e exercer o meu potêncial.
 - 🌱 Atualmente estudando POO  com a linguagem C# e .NET core 5.0
 - 📫 Contacte-me através do email: alyson.rdev@gmail.com
-- 😄 Pronouns: Ele/dele
+
 
 <div>
   <a href="https://github.com/alyson-rdev">
